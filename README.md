@@ -1,6 +1,6 @@
 # WhatsappAuto-CLI
 A simple python code to send whatsapp messages at any time you set.
-Disclaimer!
+Disclaimer! Find your position using position.py
 =======================
 This code depends upon your display resolution
 and you have to mention the necessary positions.
